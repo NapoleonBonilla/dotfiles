@@ -1,5 +1,5 @@
 # Installation
 
 ```
-curl -sfL https://raw.githubusercontent.com/ebarrere/dotfiles/main/.startup.sh | bash
+curl -sfL https://raw.githubusercontent.com/NapoleonBonilla/dotfiles/main/.startup.sh | bash
 ```
