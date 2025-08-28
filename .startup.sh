@@ -42,5 +42,5 @@ Darwin*)
     ;;
 esac
 
-chezmoi init https://github.com/ebarrere/dotfiles
+chezmoi init https://github.com/NapoleonBonilla/dotfiles
 chezmoi apply
